@@ -1,0 +1,20 @@
+main{
+    margin-top:16%;
+    margin-left: 450px;
+    margin-right:450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(235, 110, 110, 0.694);
+}
+main .text{
+    border-radius: 5px;
+    height: 20px;
+    border-color: black;
+}
+#button{
+    background-color:rgba(63, 43, 43, 0.589);
+    border-radius: 5px;
+    height:20px;
+    width:60px;
+}
